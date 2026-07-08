@@ -1,6 +1,6 @@
 # 🚀 open-responses-server
 
-A plug-and-play server that speaks OpenAI’s Responses API—no matter which AI backend you’re running.  
+A plug-and-play server that speaks OpenAI’s Responses API, no matter which AI backend you’re running.  
 
 Ollama? vLLM? LiteLLM? Even OpenAI itself?  
 This server bridges them all to the OpenAI ChatCompletions & Responses API interface.  
@@ -10,7 +10,7 @@ In plain words:
 👉 Want to experiment with self-hosted LLMs but keep OpenAI’s API compatibility?  
 
 This project makes it happen.  
-It handles stateful chat, tool calls, and future features like file search & code interpreter—all behind a familiar OpenAI API.
+It handles stateful chat, tool calls, and future features like file search & code interpreter, all behind a familiar OpenAI API.
 
 ⸻
 
@@ -151,7 +151,7 @@ If you think this is cool:
 🤝 Suggest a feature or submit a pull request!  
 
 This is early-stage but already usable in real-world demos.  
-Let’s build something powerful—together.
+Let’s build something powerful together.
 
 ## Star History
 
